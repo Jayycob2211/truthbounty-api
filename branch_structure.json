@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-630-prewave-be-033-replace-placeholder-cache"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-630-prewave-be-033-replace-placeholder-cache": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-630-prewave-be-033-replace-placeholder-cache"
+  ]
+}
